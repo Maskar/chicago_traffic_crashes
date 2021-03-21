@@ -1,8 +1,6 @@
 name: t1
 channels:
   - conda-forge
-  - bioconda
-  - ankurankan
   - defaults
 dependencies:
   - python==3.9

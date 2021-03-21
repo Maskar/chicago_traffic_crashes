@@ -1,0 +1,41 @@
+name: t1
+channels:
+  - conda-forge
+  - bioconda
+  - ankurankan
+  - defaults
+dependencies:
+  - python==3.9
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - jupyterlab-lsp
+  - jupyter-lsp-python
+  - jupyterlab_execute_time
+  - ipython-sql
+  - jupyterlab-python-file
+  - ipywidgets
+  - mamba_gator
+  - pyppeteer
+  - nodejs
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - klib
+  - pandas-profiling
+  - sweetviz
+  - plotnine
+  - bs4
+  - nltk
+  - bokeh
+  - pyarrow
+  - fastparquet
+  - imbalanced-learn
+  - requests
+  - dask
+  - modin
+  - flask
+  - dtreeviz
+  - folium
+  - geopandas
+prefix: /usr/local/Caskroom/miniconda/base/envs/t1

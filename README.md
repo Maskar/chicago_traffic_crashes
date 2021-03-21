@@ -69,8 +69,8 @@ Modeling is done on 2019 data and tested on 2020 data.
      24  sec_contributory_cause   478484 non-null  category      
      25  num_units                478484 non-null  int8          
     dtypes: category(15), datetime64[ns](1), float32(2), int16(1), int64(2), int8(4), string(1)
-    
-    __ (*) starred features were not all used during the analysis, they were experimented with on and off __
+
+(*) starred features were not all used during the analysis, they were experimented with on and off
     
     
 After cleaning is performed in **01_cleaning**, EDA is applied in two steps. The first step is to generate an overview of the whole data to undertstand the data distributions per feature. Also, to find obvious relations and patterns using correlations. This part is auto generated using SweetViz after performing the data cleaning step to generate a consolidated overview report. The report can be found in **02_report_sweetviz**.  

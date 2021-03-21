@@ -1,2 +1,2 @@
-klib>=0.1.5
-pandas>=1.2.1
+klib==0.1.5
+pandas==1.2.1

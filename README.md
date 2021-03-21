@@ -2,7 +2,7 @@
 
 # Chicago Traffic Crashes Analysis
 
-This study creates models to predict the seriousness of car crashes using 2019 and 2020 crash reports from the publicly accessable database maintained by the Chicago Police Department. A car crash is considered serious if the crash results in an injury or the car is towed due to the crash. Models use categorical features that describe conditions at the time of the crash and crash causes to predict the required target. The initial focus is to classify whether a crash results in an injury. All models are trained, validated, and tested on randomly split 2019 crash reports. The best model (along with all others) are then tested using the full set of 2020 crash reports.
+This study creates models to predict the seriousness of car crashes using 2019 and 2020 crash reports from the publicly accessable database maintained by the Chicago Police Department. A car crash is considered serious if the crash results in an injury or the car is towed due to the crash. Models use categorical features that describe conditions at the time of the crash and crash causes to predict the required target. The current focus is to classify whether a crash results in an injury. All models are trained, validated, and tested on randomly split 2019 crash reports. The best model (along with all others) are then tested using the full set of 2020 crash reports.
 
 
 ## Data Source
@@ -35,7 +35,6 @@ Modeling is done on 2019 data and tested on 2020 data.
 
 **Target Features (2019 ratio):**  
 * has_injuries (0.14)
-* crash_type (0.27)
 
 **Features:**  
 

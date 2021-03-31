@@ -76,7 +76,6 @@ After cleaning is performed in **01_cleaning**, EDA is applied in two steps. The
 
 The second step of the EDA is more focused and in depth. A set of tabulations, aggregations, and detailed visualizations are created to uncover any possible latent information that is not revealed in the first general step of EDA. The outcomes can be found in **03_analysis_m**.
 
-The most interesting observation was to find that all the target variables of interest are highly correlated, and each of them is highly imbalanced.
 
 ## Models
 

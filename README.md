@@ -79,12 +79,13 @@ The second step of the EDA is more focused and in depth. A set of tabulations, a
 
 ## Models
 
-* Logistic Regression
-* Stochatic Gradient Descent
-* Random Forest
-* AdaBoost
-* GradientBoost
-* Bagging
+* Decision Trees [04_modeling_m_dtree](./04_modeling_m_dtree.ipynb)
+* Logistic Regression [04_modeling_m_logreg_sgd](./04_modeling_m_logreg_sgd.ipynb)
+* Stochatic Gradient Descent [04_modeling_m_logreg_sgd](./04_modeling_m_logreg_sgd.ipynb)
+* Random Forest [04_modeling_m_ensemble.ipynb](./04_modeling_m_ensemble.ipynb)
+* AdaBoost [04_modeling_m_ensemble.ipynb](./04_modeling_m_ensemble.ipynb)
+* GradientBoost [04_modeling_m_ensemble.ipynb](./04_modeling_m_ensemble.ipynb)
+* Bagging [04_modeling_m_ensemble.ipynb](./04_modeling_m_ensemble.ipynb)
 
 ## References
 
